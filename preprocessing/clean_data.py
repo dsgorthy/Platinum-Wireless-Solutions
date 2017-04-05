@@ -42,6 +42,21 @@ def parsed_row_to_string(row):
 	return init_str[:-1] + "\n"
 
 
+def parse_ledger_file(ledger_file):
+	f = open(ledger_file)
+	csv_f = csv.reader(f)
+	ledger_list = []
+	return_ledger_list
+
+	for row in csv_f:
+		ledger_list = row
+
+	for ledger in ledger_list:
+		return_ledger_list.append("../raw_data/"+ledger)
+
+	return return_ledger_list
+
+
 def get_column_number(file_name, column):
 
 	f = open(file_name)
@@ -87,6 +102,12 @@ def remove_rows_with_element(file_name, remove_string, category_int, new_file_na
 	for row in csv_f:
 		if (row[category_int] != remove_string):
 			add_line_to_file(parsed_row_to_string(row), new_file_name)	
+	return
+
+
+def generate_complete_output_file(sales_file, ledger_list, output_file):
+
+	
 
 	return
 
@@ -115,6 +136,15 @@ while ans:
 				data_val = input("What data value do you want to remove? ")
 				output_file = "../data_output/"+input("What would you like the output file to be named? ")
 				remove_rows_with_element(input_file, data_val, column_int, output_file)
+
+	elif (ans == "3"):
+		input_file = "../raw_data/"+input("What is the name of the raw sales file? ")
+		if (file_exists(input_file)):
+			list_of_ledgers_file = "../raw_data/"+input("What file lists the ledger files on a single line? ")
+			if (file_exists(list_of_ledgers_file)):
+				list_of_ledgers = parse_ledger_file(list_of_ledgers_file)
+				output_file = "../data_output/"+input("What would you like the output file to be named? ")
+				generate_complete_output_file(input_file, list_of_ledgers, output_file)
 
 	elif (ans == "9"):
 		print ("Goodbye!")
