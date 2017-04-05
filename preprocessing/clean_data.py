@@ -34,6 +34,14 @@ def add_line_to_file(line,output_file_name):
 	return
 
 
+def parsed_row_to_string(row):
+	init_str = ""
+
+	for item in row:
+		init_str = init_str + item + ","
+	return init_str[:-1] + "\n"
+
+
 def get_column_number(file_name, column):
 
 	f = open(file_name)
@@ -65,21 +73,20 @@ def remove_column(file_name, column_int, new_file_name):
 	csv_f = csv.reader(f)
 
 	for row in csv_f:
-
 		del row[column_int]
-
-		init_str = ""
-
-		for item in row:
-			init_str = init_str + item + ","
-		init_str = init_str[:-1] + "\n"
-
-		add_line_to_file(init_str, new_file_name)
+		add_line_to_file(parsed_row_to_string(row), new_file_name)
 
 	return
 
 
 def remove_rows_with_element(file_name, remove_string, category_int, new_file_name):
+
+	f = open(file_name)
+	csv_f = csv.reader(f)
+
+	for row in csv_f:
+		if (row[category_int] != remove_string):
+			add_line_to_file(parsed_row_to_string(row), new_file_name)	
 
 	return
 
