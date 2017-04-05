@@ -1,0 +1,758 @@
+Model,Carrier,Category,Date_Sold, Purchase_Price, Sales_Price, Shipping_Cost, eBay_Fees, Profit, Item_ID
+LG LN272,Verizon,Older Phone,4/13/2016,$5.00 ,$14.22 ,$2.60 ,$1.14 ,$5.48 ,A1863
+LG LN272,Verizon,Older Phone,4/13/2016,$5.00 ,$14.22 ,$2.60 ,$1.14 ,$5.48 ,A1864
+LG Rumor 2,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A1865
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$16.16 ,$2.60 ,$1.29 ,$5.07 ,A1866
+Pantech CDM8992,Verizon,Older Phone,4/13/2016,$6.00 ,$20.04 ,$2.60 ,$1.60 ,$9.84 ,A1867
+LG Rumor 2,Verizon,Older Phone,4/13/2016,$5.00 ,$15.19 ,$2.60 ,$1.22 ,$6.37 ,A1868
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A1869
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A1870
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$12.27 ,$2.60 ,$0.98 ,$2.69 ,A1871
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1872
+Samsung SGH-A687,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1873
+LG VN530,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A1874
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1875
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,$57.96 ,,,$17.96 ,A1876
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A1877
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1878
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$16.16 ,$2.60 ,$1.29 ,$5.07 ,A1879
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$19.07 ,$2.60 ,$1.53 ,$7.74 ,A1880
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$23.20 ,$5.60 ,$1.86 ,$10.74 ,A1881
+Nokia 6555,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A1882
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$23.20 ,$5.60 ,$1.86 ,$10.74 ,A1883
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$15.19 ,$2.60 ,$1.22 ,$4.37 ,A1884
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,$87.09 ,,,$47.09 ,A1885
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,,,,($40.00),A1886
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A1887
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A1888
+Motorola Droid 2 A955,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1889
+Blackberry 9800,Verizon,Older Phone,4/13/2016,$15.00 ,$22.96 ,$2.60 ,$1.84 ,$3.52 ,A1890
+Nokia 6555,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A1891
+Motorola w755,Verizon,Older Phone,4/13/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A1892
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$19.07 ,$2.60 ,$1.53 ,$7.74 ,A1893
+LG VX9100,Verizon,Older Phone,4/13/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A1894
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A1895
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A1896
+LG enV vx11000,Verizon,Older Phone,n/a,$6.00 ,$19.07 ,$2.60 ,$1.53 ,$8.94 ,A1897
+LG LS670,Verizon,Older Phone,6/1/2016,$5.00 ,$20.29 ,$2.60 ,$1.62 ,$11.07 ,A1898
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$13.25 ,$2.60 ,$1.06 ,$3.39 ,A1899
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$20.55 ,$2.60 ,$1.64 ,$11.31 ,A1900
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$24.17 ,$5.75 ,$1.93 ,$9.29 ,A1901
+Motorola Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A1902
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A1903
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$21.26 ,$5.65 ,$1.70 ,$8.91 ,A1904
+Nokia 6555,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A1905
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$27.81 ,$2.60 ,$2.22 ,$15.99 ,A1906
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A1907
+HTC Nexus One PB99100,Verizon,Older Phone,4/30/2016,$20.00 ,$34.61 ,$2.60 ,$2.77 ,$9.24 ,A1908
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A1909
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$88.84 ,$11.95 ,$7.11 ,$63.78 ,A1910
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A1911
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A1912
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A1913
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,$517.68 ,$23.90 ,$41.41 ,$442.37 ,A1914
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1915
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1916
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1917
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1918
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1919
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1920
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1921
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1922
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1923
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1924
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1925
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1926
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1927
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1928
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1929
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1930
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1931
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1932
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A1933
+Lot of 400 i5 Cables,-,Charger,-,$200.00 ,$0.00 ,,$0.00 ,($200.00),A1934
+Lot of 400 S5 USB Cables,-,Charger,-,$155.00 ,$0.00 ,,$0.00 ,($155.00),A1935
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,$87.09 ,,,$47.09 ,A1936
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,$116.22 ,,,$76.22 ,A1937
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,,,,($40.00),A1938
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A1939
+Samsung SGH-A797,Verizon,Older Phone,4/13/2016,$5.00 ,$36.50 ,$3.55 ,$2.92 ,$25.03 ,A1940
+Samsung SGH-A797,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A1941
+LG VX9100,Verizon,Older Phone,4/13/2016,$5.00 ,$44.75 ,$6.62 ,$3.58 ,$29.55 ,A1942
+LG VX9100,Verizon,Older Phone,4/13/2016,$5.00 ,,$6.62 ,$0.00 ,($11.62),A1943
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$18.10 ,$2.60 ,$1.45 ,$6.85 ,A1944
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$9.00 ,$13.25 ,$2.60 ,$1.06 ,$0.59 ,A1945
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A1946
+Motorola Moto X,Verizon,Smart Phone,4/13/2016,$30.00 ,$62.12 ,$2.60 ,$4.97 ,$24.55 ,A1947
+Nokia 6555,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A1948
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1949
+Blackberry 9800,Verizon,Older Phone,4/13/2016,$15.00 ,$22.96 ,$2.60 ,$1.84 ,$3.52 ,A1950
+Motorola Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A1951
+Nokia 6555,Verizon,Older Phone,4/13/2016,$5.00 ,$14.22 ,$2.60 ,$1.14 ,$5.48 ,A1952
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1953
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$12.27 ,$2.60 ,$0.98 ,$2.69 ,A1954
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$20.04 ,$2.60 ,$1.60 ,$8.64 ,A1955
+Blackberry 9800,Verizon,Older Phone,4/13/2016,$15.00 ,$22.96 ,$2.60 ,$1.84 ,$3.52 ,A1956
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A1957
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,$222.98 ,,,$182.98 ,A1958
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,,,,($40.00),A1959
+(10) Generic 16 GB Micro,Verizon,Misc,4/13/2016,$40.00 ,,,,($40.00),A1960
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A1961
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$9.00 ,$13.25 ,$2.60 ,$1.06 ,$0.59 ,A1962
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A1963
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$21.01 ,$2.60 ,$1.68 ,$9.53 ,A1964
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A1965
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$19.49 ,$2.60 ,$1.56 ,$8.13 ,A1966
+Samsung SCH-U450,Verizon,Older Phone,4/23/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A1967
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A1968
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$18.10 ,$2.60 ,$1.45 ,$6.85 ,A1969
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1970
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A1971
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,$23.66 ,$2.60 ,$1.89 ,$14.17 ,A1972
+Samsung SGH-A737,Verizon,Older Phone,4/23/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A1973
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$30.98 ,$2.60 ,$2.48 ,$18.90 ,A1974
+LG Rumor 2,Verizon,Older Phone,4/13/2016,$6.00 ,$25.87 ,$2.60 ,$2.07 ,$15.20 ,A1975
+Motorola Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$18.44 ,$2.60 ,$1.48 ,$9.36 ,A1976
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$19.07 ,$2.60 ,$1.53 ,$7.74 ,A1977
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A1978
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$15.19 ,$2.60 ,$1.22 ,$4.37 ,A1979
+HTC Nexus One PB99100,Verizon,Older Phone,4/30/2016,$20.00 ,$34.61 ,$2.60 ,$2.77 ,$9.24 ,A1980
+Droid XT912,Verizon,Smart Phone,4/13/2016,$20.00 ,$39.46 ,$2.60 ,$3.16 ,$13.70 ,A1981
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A1982
+LG Rumor 2,Verizon,Older Phone,4/13/2016,$6.00 ,$25.87 ,$2.60 ,$2.07 ,$15.20 ,A1983
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1984
+Nokia 6555,Verizon,Older Phone,4/13/2016,$5.00 ,$14.22 ,$2.60 ,$1.14 ,$5.48 ,A1985
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$12.27 ,$2.60 ,$0.98 ,$1.49 ,A1986
+Droid XT912,Verizon,Smart Phone,4/13/2016,$20.00 ,$28.48 ,$2.60 ,$2.28 ,$3.60 ,A1987
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A1988
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A1989
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A1990
+LG enV vx11000,Verizon,Older Phone,n/a,$6.00 ,$22.96 ,$2.60 ,$1.84 ,$12.52 ,A1991
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A1992
+LG VX11000,Verizon,Older Phone,4/13/2016,$5.00 ,$15.19 ,$2.60 ,$1.22 ,$6.37 ,A1993
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$19.07 ,$2.60 ,$1.53 ,$7.74 ,A1994
+Droid XT912,Verizon,Smart Phone,4/13/2016,$20.00 ,$48.20 ,$2.60 ,$3.86 ,$21.74 ,A1995
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$15.19 ,$2.60 ,$1.22 ,$4.37 ,A1996
+LG A340,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A1997
+Droid X2,Verizon,Older Phone,6/1/2016,$10.00 ,$27.81 ,$2.60 ,$2.22 ,$12.99 ,A1998
+LG Rumor 2,Verizon,Older Phone,4/13/2016,$6.00 ,$20.04 ,$2.60 ,$1.60 ,$9.84 ,A1999
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$20.04 ,$2.60 ,$1.60 ,$8.64 ,A2000
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A2001
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$16.16 ,$2.60 ,$1.29 ,$5.07 ,A2002
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A2003
+Samsung SGH-A687,Verizon,Older Phone,4/23/2016,$5.00 ,$23.93 ,$2.60 ,$1.91 ,$14.42 ,A2004
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$24.90 ,$2.60 ,$1.99 ,$13.31 ,A2005
+Samsung SCH-U750,Verizon,Older Phone,4/13/2016,$5.00 ,$27.81 ,$2.60 ,$2.22 ,$17.99 ,A2006
+Samsung SGH-A817,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A2007
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$9.00 ,$17.37 ,$5.45 ,$1.39 ,$1.53 ,A2008
+LG LS670,Verizon,Older Phone,6/1/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2009
+HTC Vivid,Verizon,Older Phone,4/13/2016,$20.00 ,$19.07 ,$2.60 ,$1.53 ,($5.06),A2010
+Samsung SCH-U450,Verizon,Older Phone,4/23/2016,$5.00 ,$20.29 ,$5.45 ,$1.62 ,$8.22 ,A2011
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2012
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2013
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A2014
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2015
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$23.93 ,$2.60 ,$1.91 ,$14.42 ,A2016
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2017
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$12.27 ,$2.60 ,$0.98 ,$2.69 ,A2018
+Pantech CDM8992,Verizon,Older Phone,4/13/2016,$6.00 ,$20.04 ,$2.60 ,$1.60 ,$9.84 ,A2019
+LG LS670,Verizon,Older Phone,6/1/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2020
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$20.04 ,$2.60 ,$1.60 ,$8.64 ,A2021
+Blackberry 9800,Verizon,Older Phone,4/13/2016,$15.00 ,$16.16 ,$2.60 ,$1.29 ,($2.73),A2022
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$26.79 ,$2.60 ,$2.14 ,$15.05 ,A2023
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A2024
+Motorola Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2025
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2026
+Pantech C520,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A2027
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2028
+Samsung SCH-U820,Verizon,Older Phone,4/23/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2029
+Motorola Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2030
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2031
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$32.62 ,$3.55 ,$2.61 ,$19.26 ,A2032
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,,,$0.00 ,($7.20),A2033
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2034
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$9.00 ,$26.79 ,$3.55 ,$2.14 ,$12.10 ,A2035
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$9.00 ,,,$0.00 ,($9.00),A2036
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$15.19 ,$2.60 ,$1.22 ,$4.37 ,A2037
+Motorola Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$25.14 ,$5.55 ,$2.01 ,$12.58 ,A2038
+LG VX11000,Verizon,Older Phone,4/13/2016,$5.00 ,$15.19 ,$2.60 ,$1.22 ,$6.37 ,A2039
+Pantech CDM8992,Verizon,Older Phone,4/13/2016,$6.00 ,$20.04 ,$2.60 ,$1.60 ,$9.84 ,A2040
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$23.20 ,$5.55 ,$1.86 ,$10.79 ,A2041
+Lot of 400 i5 Cables,-,Charger,-,$200.00 ,$155.86 ,,$12.47 ,($56.61),A2042
+Motorola Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2043
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$9.00 ,$14.26 ,$2.60 ,$1.14 ,$1.52 ,A2044
+Blackberry 9800,Verizon,Older Phone,4/13/2016,$15.00 ,$22.96 ,$2.60 ,$1.84 ,$3.52 ,A2045
+HTC Vivid,Verizon,Older Phone,4/13/2016,$20.00 ,$22.96 ,$2.60 ,$1.84 ,($1.48),A2046
+Samsung SGH-A687,Verizon,Older Phone,4/23/2016,$5.00 ,$41.36 ,$3.55 ,$3.31 ,$29.50 ,A2047
+Samsung SGH-A687,Verizon,Older Phone,4/23/2016,$5.00 ,$0.00 ,,$0.00 ,($5.00),A2048
+HTC Nexus One PB99100,Verizon,Older Phone,4/30/2016,$20.00 ,$34.61 ,$2.60 ,$2.77 ,$9.24 ,A2049
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A2050
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2051
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$25.75 ,$2.60 ,$2.06 ,$14.09 ,A2052
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2053
+Samsung SGH-A737,Verizon,Older Phone,4/23/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2054
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$23.20 ,$5.55 ,$1.86 ,$8.59 ,A2055
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A2056
+Samsung SCH-U740,Verizon,Older Phone,4/23/2016,$5.00 ,$23.93 ,$2.60 ,$1.91 ,$14.42 ,A2057
+Samsung SGH-A817,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A2058
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2059
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A2060
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2061
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2062
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2063
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$20.29 ,$2.60 ,$1.62 ,$11.07 ,A2064
+Samsung SGH-A687,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2065
+Blackberry 9800,Verizon,Older Phone,4/13/2016,$15.00 ,$16.16 ,$2.60 ,$1.29 ,($2.73),A2066
+LG VX9100,Verizon,Older Phone,4/13/2016,$5.00 ,$9.36 ,$2.60 ,$0.75 ,$1.01 ,A2067
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2068
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$23.93 ,$2.60 ,$1.44 ,$14.89 ,A2069
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A2070
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2071
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$16.16 ,$2.60 ,$1.29 ,$5.07 ,A2072
+LG LN272,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2073
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$20.04 ,$2.60 ,$1.60 ,$8.64 ,A2074
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$15.00 ,$32.91 ,$5.55 ,$2.63 ,$9.73 ,A2075
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2076
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.60 ,$0.75 ,$1.01 ,A2077
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A2078
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$18.10 ,$2.60 ,$1.45 ,$6.85 ,A2079
+Casio Rock,Verizon,Older Phone,4/13/2016,$5.00 ,$38.49 ,$2.60 ,$3.08 ,$27.81 ,A2080
+SCH-i547 RUGBY PRO,Verizon,Older Phone,4/13/2016,$25.00 ,$57.91 ,$2.60 ,$4.63 ,$25.68 ,A2081
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$12.00 ,$20.04 ,$2.60 ,$1.60 ,$3.84 ,A2082
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A2083
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2084
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A2085
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$12.00 ,$28.78 ,$2.60 ,$2.30 ,$11.88 ,A2086
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$9.00 ,$22.23 ,$6.53 ,$1.78 ,$4.92 ,A2087
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A2088
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.60 ,$1.60 ,$10.84 ,A2089
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$24.17 ,$6.53 ,$1.93 ,$8.51 ,A2090
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$12.00 ,$28.78 ,$2.60 ,$2.30 ,$11.88 ,A2091
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,$56.16 ,$3.66 ,$4.49 ,$38.01 ,A2092
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A2093
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A2094
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2095
+Samsung SCH-U820,Verizon,Older Phone,4/23/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2096
+Samsung SCH-U820,Verizon,Older Phone,4/23/2016,$5.00 ,$14.22 ,$2.60 ,$1.14 ,$5.48 ,A2097
+SCH-i110,Verizon,Older Phone,4/13/2016,$5.00 ,$32.62 ,$3.55 ,$2.61 ,$21.46 ,A2098
+SCH-i110,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2099
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A2100
+Samsung SGH-A797,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2101
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$7.50 ,$13.25 ,$2.60 ,$1.06 ,$2.09 ,A2102
+Samsung SCH-U740,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2103
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$22.91 ,$3.55 ,$1.83 ,$12.53 ,A2104
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2105
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$26.79 ,$3.55 ,$2.14 ,$13.90 ,A2106
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,,,$0.00 ,($7.20),A2107
+Samsung SCH-U660,Verizon,Older Phone,4/30/2016,$7.50 ,$54.90 ,$2.60 ,$4.39 ,$40.41 ,A2108
+Samsung SGH-A687,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2109
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$15.19 ,$2.60 ,$1.22 ,$4.37 ,A2110
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$23.20 ,$5.75 ,$1.86 ,$10.59 ,A2111
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2112
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2113
+Motorola Droid 2 A955,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2114
+Motorola Droid 2 A955,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2115
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2116
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$21.98 ,$2.60 ,$1.76 ,$12.62 ,A2117
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$12.00 ,$57.86 ,$3.55 ,$4.63 ,$37.68 ,A2118
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$12.00 ,,,$0.00 ,($12.00),A2119
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2120
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$23.93 ,$2.60 ,$1.91 ,$14.42 ,A2121
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2122
+Samsung SGH-A817,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A2123
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$12.00 ,$32.91 ,$5.75 ,$2.63 ,$12.53 ,A2124
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,$34.56 ,$3.55 ,$2.76 ,$23.25 ,A2125
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2126
+Casio Rock,Verizon,Older Phone,4/13/2016,$5.00 ,$28.78 ,$2.60 ,$2.30 ,$18.88 ,A2127
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A2128
+Pantech P6010,Verizon,Older Phone,4/13/2016,$6.00 ,$19.07 ,$2.60 ,$1.53 ,$8.94 ,A2129
+Samsung SGH-A687,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2130
+Casio Rock,Verizon,Older Phone,4/13/2016,$5.00 ,$28.78 ,$2.60 ,$2.30 ,$18.88 ,A2131
+Casio Rock,Verizon,Older Phone,4/13/2016,$5.00 ,$28.78 ,$2.60 ,$2.30 ,$18.88 ,A2132
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$32.62 ,$3.55 ,$2.61 ,$21.46 ,A2133
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2134
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2135
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A2136
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$12.00 ,$19.83 ,$2.60 ,$1.59 ,$3.64 ,A2137
+SCH-i547 RUGBY PRO,Verizon,Older Phone,4/13/2016,$25.00 ,$57.91 ,$2.60 ,$4.63 ,$25.68 ,A2138
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A2139
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2140
+Casio Rock,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2141
+LG A340,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2142
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$11.30 ,$2.60 ,$0.90 ,$2.80 ,A2143
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$120.25 ,$11.95 ,$9.62 ,$92.68 ,A2144
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2145
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2146
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2147
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2148
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2149
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2150
+Samsung SGH-A817,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2151
+Samsung SGH-A817,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2152
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$11.30 ,$2.60 ,$0.90 ,$2.80 ,A2153
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$58.79 ,$5.75 ,$4.70 ,$41.14 ,A2154
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,,,$0.00 ,($7.20),A2155
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,,,$0.00 ,($7.20),A2156
+LG LS670,Verizon,Older Phone,6/1/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2157
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2158
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2159
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,$23.66 ,$2.60 ,$1.89 ,$14.17 ,A2160
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$21.26 ,$5.75 ,$1.70 ,$8.81 ,A2161
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$12.00 ,$19.83 ,$2.60 ,$1.59 ,$3.64 ,A2162
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.60 ,$0.98 ,$3.69 ,A2163
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$44.27 ,$3.55 ,$3.54 ,$31.18 ,A2165
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2166
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2167
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2168
+Droid XT912,Verizon,Smart Phone,4/13/2016,$20.00 ,$46.26 ,$2.60 ,$3.70 ,$19.96 ,A2169
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2170
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2171
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2172
+Moto G,Verizon,Smart Phone,4/13/2016,$20.00 ,$23.93 ,$3.55 ,$1.91 ,($1.53),A2173
+Moto G,Verizon,Smart Phone,4/13/2016,$20.00 ,$43.35 ,,$3.47 ,$19.88 ,A2174
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$23.20 ,$5.75 ,$1.86 ,$10.59 ,A2175
+Pantech C520,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.60 ,$1.60 ,$10.84 ,A2176
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$17.40 ,$2.60 ,$1.39 ,$8.41 ,A2177
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$32.62 ,$3.55 ,$2.61 ,$21.46 ,A2178
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2179
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.60 ,$0.98 ,$3.69 ,A2180
+Pantech P6010,Verizon,Older Phone,4/13/2016,$6.00 ,$15.19 ,$2.60 ,$1.22 ,$5.37 ,A2181
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2182
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2183
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A2184
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2185
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$16.16 ,$2.60 ,$1.29 ,$5.07 ,A2186
+Moto G,Verizon,Smart Phone,4/13/2016,$20.00 ,$23.93 ,$2.60 ,$1.91 ,($0.58),A2187
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A2188
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2189
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.60 ,$0.98 ,$3.69 ,A2190
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,$25.87 ,$2.60 ,$2.07 ,$11.20 ,A2191
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$15.19 ,$2.60 ,$1.22 ,$4.37 ,A2192
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2193
+LG A340,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2194
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$23.20 ,$5.75 ,$1.86 ,$10.59 ,A2195
+Samsung SCH-U820,Verizon,Older Phone,4/23/2016,$5.00 ,$14.22 ,$2.60 ,$1.14 ,$5.48 ,A2196
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2197
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.60 ,$0.75 ,$1.01 ,A2198
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$17.40 ,$2.60 ,$1.39 ,$8.41 ,A2199
+LG VN530,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A2200
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2201
+Samsung SCH-R640,Verizon,Older Phone,4/13/2016,$8.00 ,$38.49 ,$2.60 ,$3.08 ,$24.81 ,A2202
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$18.10 ,$2.60 ,$1.45 ,$6.85 ,A2203
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$19.07 ,$2.60 ,$1.53 ,$7.74 ,A2204
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A2205
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2206
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$13.25 ,$2.60 ,$1.06 ,$3.39 ,A2207
+Motorola W755,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A2208
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2209
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2210
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2211
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2212
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$15.19 ,$2.60 ,$1.22 ,$4.37 ,A2213
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$11.30 ,$2.60 ,$0.90 ,$2.80 ,A2214
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$17.13 ,$2.60 ,$1.37 ,$7.16 ,A2215
+Pantech C520,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.60 ,$1.60 ,$10.84 ,A2216
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2217
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.60 ,$0.98 ,$3.69 ,A2218
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$5.00 ,$18.34 ,$5.75 ,$1.47 ,$6.12 ,A2219
+Samsung SCH-U820,Verizon,Older Phone,4/23/2016,$5.00 ,$14.22 ,$2.60 ,$1.14 ,$5.48 ,A2220
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$18.87 ,$2.60 ,$1.51 ,$7.56 ,A2221
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2222
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.60 ,$0.98 ,$3.69 ,A2223
+Samsung SCH-U450,Verizon,Older Phone,4/23/2016,$5.00 ,$20.29 ,$2.60 ,$1.62 ,$11.07 ,A2224
+Motorola Droid 2 A955,Verizon,Older Phone,4/13/2016,$5.00 ,$38.44 ,$3.55 ,$3.08 ,$26.81 ,A2225
+Motorola Droid 2 A955,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2226
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$17.13 ,$2.60 ,$1.37 ,$7.16 ,A2227
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$13.23 ,$2.60 ,$1.06 ,$4.57 ,A2228
+150 Mil RS 07 Gold,-,Misc,-,$45.00 ,$412.37 ,,,$367.37 ,A2229
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2230
+LG VX9200,Verizon,Older Phone,6/1/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2231
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2232
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2233
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2234
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$15.19 ,$2.60 ,$1.22 ,$4.37 ,A2235
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2236
+Motorola Droid 2 A955,Verizon,Older Phone,4/13/2016,$5.00 ,$27.08 ,$5.75 ,$2.17 ,$14.16 ,A2237
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2238
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2239
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$31.65 ,$3.55 ,$2.53 ,$20.57 ,A2240
+LG VN530,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2241
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$36.50 ,$3.55 ,$2.92 ,$25.03 ,A2242
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2243
+Droid XT912,Verizon,Smart Phone,4/13/2016,$25.00 ,$46.26 ,$2.60 ,$3.70 ,$14.96 ,A2244
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$20.04 ,$2.60 ,$1.60 ,$8.64 ,A2245
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.60 ,$1.45 ,$7.05 ,A2246
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2247
+Droid XT907,Verizon,Smart Phone,4/13/2016,$20.00 ,$38.49 ,$2.60 ,$3.08 ,$12.81 ,A2248
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.84 ,$5.75 ,$1.75 ,$8.14 ,A2249
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$7.20 ,$19.07 ,$2.60 ,$1.53 ,$7.74 ,A2250
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2251
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$23.78 ,$5.75 ,$1.90 ,$11.13 ,A2252
+LG LN272,Verizon,Older Phone,2/8/2017,$5.00 ,$23.93 ,$2.60 ,$1.91 ,$14.42 ,A2253
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2254
+Samsung SCH-U740,Verizon,Older Phone,4/23/2016,$5.00 ,$23.93 ,$2.60 ,$1.91 ,$14.42 ,A2255
+Droid XT875,Verizon,Older Phone,4/13/2016,$10.00 ,$30.72 ,$2.60 ,$2.46 ,$15.66 ,A2256
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$44.27 ,$3.55 ,$3.54 ,$31.18 ,A2257
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2258
+Droid XT912,Verizon,Smart Phone,4/13/2016,$25.00 ,$46.26 ,$2.60 ,$3.70 ,$14.96 ,A2259
+Samsung SCH-U740,Verizon,Older Phone,2/8/2017,$5.00 ,$15.19 ,$2.60 ,$1.22 ,$6.37 ,A2260
+LG Rumor 2,Verizon,Older Phone,4/13/2016,$6.00 ,$40.38 ,$3.55 ,$3.23 ,$27.60 ,A2261
+LG Rumor 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2262
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$23.93 ,$2.60 ,$1.91 ,$14.42 ,A2263
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2264
+Moto G,Verizon,Smart Phone,4/13/2016,$20.00 ,$23.93 ,$2.60 ,$1.91 ,($0.58),A2265
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$12.18 ,$2.60 ,$0.97 ,$3.61 ,A2266
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2267
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.60 ,$0.75 ,$1.01 ,A2268
+LG VN530,Verizon,Older Phone,6/1/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A2269
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.60 ,$1.45 ,$7.05 ,A2270
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2271
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.60 ,$1.60 ,$10.84 ,A2272
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A2273
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A2274
+Nokia 6085,Verizon,Older Phone,4/13/2016,$6.00 ,$17.13 ,$2.60 ,$1.37 ,$7.16 ,A2275
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2276
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2277
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2278
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A2279
+Moto G,Verizon,Smart Phone,4/13/2016,$20.00 ,$42.38 ,$2.60 ,$3.39 ,$16.39 ,A2280
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.60 ,$1.60 ,$10.84 ,A2281
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2282
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2283
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.60 ,$0.98 ,$3.69 ,A2284
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2285
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.60 ,$1.45 ,$7.05 ,A2286
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A2287
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2288
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2289
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2290
+Droid XT912,Verizon,Older Phone,4/13/2016,$20.00 ,$46.26 ,$2.60 ,$3.70 ,$19.96 ,A2291
+Lot of 1000 USB Cables,-,Charger,-,$200.00 ,$0.00 ,,$0.00 ,($200.00),A2292
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$25.87 ,$2.60 ,$2.07 ,$15.20 ,A2293
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2294
+Droid XT912,Verizon,Smart Phone,4/13/2016,$20.00 ,$46.26 ,$2.60 ,$3.70 ,$19.96 ,A2295
+Samsung SPH-M540,Verizon,Older Phone,4/13/2016,$5.00 ,$21.58 ,$2.60 ,$1.73 ,$12.25 ,A2296
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$19.07 ,$2.60 ,$1.53 ,$9.94 ,A2297
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$52.04 ,$3.55 ,$4.16 ,$38.33 ,A2298
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2299
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2300
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2301
+Droid XT912,Verizon,Smart Phone,4/13/2016,$25.00 ,$91.86 ,$3.55 ,$7.35 ,$55.96 ,A2302
+Droid XT912,Verizon,Smart Phone,4/13/2016,$25.00 ,,,$0.00 ,($25.00),A2303
+Rumor 2,Verizon,Older Phone,4/13/2016,$5.00 ,$25.87 ,$2.60 ,$2.07 ,$16.20 ,A2304
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.60 ,$1.68 ,$10.53 ,A2305
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.60 ,$1.06 ,$4.59 ,A2306
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2307
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$18.10 ,$2.60 ,$1.45 ,$8.05 ,A2308
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$13.25 ,$2.60 ,$1.06 ,$3.59 ,A2309
+Casio C740,Verizon,Older Phone,4/13/2016,$16.00 ,$38.49 ,$2.60 ,$3.08 ,$16.81 ,A2310
+Droid X2,Verizon,Older Phone,6/1/2016,$10.00 ,$17.13 ,$2.60 ,$1.37 ,$3.16 ,A2311
+Pantech Caper,Verizon,Older Phone,4/13/2016,$5.00 ,$24.75 ,$5.75 ,$1.98 ,$12.02 ,A2312
+Motorola RAZR V3M,Verizon,Older Phone,4/13/2016,$5.00 ,$14.26 ,$2.60 ,$1.14 ,$5.52 ,A2313
+Casio C740,Verizon,Older Phone,4/13/2016,$16.00 ,$38.49 ,$2.60 ,$3.08 ,$16.81 ,A2314
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2315
+Samsung SCH-R640,Verizon,Older Phone,4/13/2016,$8.00 ,$48.20 ,$2.60 ,$3.86 ,$33.74 ,A2316
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$21.01 ,$2.60 ,$1.68 ,$10.73 ,A2317
+Motorola Moto X,Verizon,Smart Phone,4/13/2016,$30.00 ,$48.20 ,$2.60 ,$3.86 ,$11.74 ,A2318
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2319
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$23.78 ,$5.75 ,$1.90 ,$11.13 ,A2320
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2321
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$16.16 ,$2.60 ,$1.29 ,$7.27 ,A2322
+Pantech C520,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.60 ,$1.60 ,$10.84 ,A2323
+LG VX11000,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2324
+LG VX11000,Verizon,Older Phone,4/13/2016,$6.00 ,$22.96 ,$2.60 ,$1.84 ,$12.52 ,A2325
+150 Mil RS 07 Gold,-,Misc,-,$45.00 ,$365.72 ,$0.00 ,,$320.72 ,A2326
+150 Mil RS 07 Gold,-,Misc,-,$45.00 ,,$0.00 ,$0.00 ,($45.00),A2327
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$17.13 ,$2.60 ,$1.37 ,$8.16 ,A2328
+Samsung SCH-U750,Verizon,Older Phone,4/23/2016,$5.00 ,$27.81 ,$2.60 ,$2.22 ,$17.99 ,A2329
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$18.10 ,$2.60 ,$1.45 ,$9.05 ,A2330
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$25.72 ,$5.75 ,$2.06 ,$12.91 ,A2331
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.60 ,$1.68 ,$11.73 ,A2332
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$20.04 ,$2.60 ,$1.60 ,$10.84 ,A2333
+Samsung SGH-A687,Verizon,Older Phone,4/23/2016,$5.00 ,$20.53 ,$2.60 ,$1.64 ,$11.29 ,A2334
+Samsung SGH-A817,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.60 ,$1.76 ,$11.62 ,A2335
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2336
+Samsung SPH-M540,Verizon,Older Phone,2/8/2017,$5.00 ,$24.17 ,$5.75 ,$1.93 ,$11.49 ,A2337
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2338
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.77 ,$1.06 ,$4.42 ,A2339
+Droid XT907,Verizon,Smart Phone,4/13/2016,$20.00 ,$38.49 ,$2.77 ,$3.08 ,$12.64 ,A2340
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2341
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2342
+Samsung SCH-U750,Verizon,Older Phone,2/8/2017,$5.00 ,$27.81 ,$2.77 ,$2.22 ,$17.82 ,A2343
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$23.93 ,$2.77 ,$1.91 ,$14.25 ,A2344
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2345
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2346
+Samsung SGH-A797,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2347
+Samsung SCH-U750,Verizon,Older Phone,2/8/2017,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2348
+Motorola VA76,Verizon,Older Phone,2/8/2017,$5.00 ,$48.20 ,$2.77 ,$3.86 ,$36.57 ,A2349
+Droid X2,Verizon,Older Phone,6/1/2016,$10.00 ,$27.81 ,$2.77 ,$2.22 ,$12.82 ,A2350
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$26.84 ,$2.77 ,$2.15 ,$16.92 ,A2351
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$17.13 ,$2.77 ,$1.37 ,$6.79 ,A2352
+Samsung SGH-T379,Verizon,Older Phone,4/23/2016,$5.00 ,$12.27 ,$2.77 ,$0.98 ,$3.52 ,A2353
+Samsung SPH-M540,Verizon,Older Phone,2/8/2017,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2354
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,$34.51 ,$5.75 ,$2.76 ,$21.00 ,A2355
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2356
+Motorola W385,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2357
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$26.84 ,$2.77 ,$2.15 ,$16.92 ,A2358
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.77 ,$1.68 ,$10.36 ,A2359
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$26.84 ,$2.77 ,$2.15 ,$16.92 ,A2360
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$38.44 ,$3.55 ,$3.08 ,$26.81 ,A2361
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2362
+150 Mil RS 07 Gold,-,Misc,-,$45.00 ,$189.00 ,,,$144.00 ,A2363
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$23.93 ,$2.77 ,$1.91 ,$12.25 ,A2364
+Samsung SCH-U365,Verizon,Older Phone,2/8/2017,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2365
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2366
+Samsung SCH-U750,Verizon,Older Phone,2/8/2017,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2367
+Samsung SCH-U750,Verizon,Older Phone,2/8/2017,$5.00 ,$27.81 ,$2.77 ,$2.22 ,$17.82 ,A2368
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.77 ,$1.68 ,$10.36 ,A2369
+LG VX11000,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2370
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2371
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2372
+Samsung SCH-U450,Verizon,Older Phone,4/23/2016,$5.00 ,$23.78 ,$5.75 ,$1.90 ,$11.13 ,A2373
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$23.93 ,$2.77 ,$1.91 ,$14.25 ,A2374
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2375
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2376
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2377
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2378
+Droid XT875,Verizon,Smart Phone,4/13/2016,$10.00 ,$30.72 ,$2.77 ,$2.46 ,$15.49 ,A2379
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$16.16 ,$2.77 ,$1.29 ,$6.10 ,A2380
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$3.55 ,$1.60 ,$9.89 ,A2381
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,,$1.29 ,$9.87 ,A2382
+Droid Pro XT610,Verizon,Older Phone,4/30/2016,$10.00 ,$11.30 ,$2.77 ,$0.90 ,($2.37),A2383
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.77 ,$0.98 ,$3.52 ,A2384
+Droid Pro XT610,Verizon,Older Phone,4/30/2016,$10.00 ,$12.18 ,$2.77 ,$0.97 ,($1.56),A2385
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2386
+Samsung SGH-A797,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2387
+Samsung SCH-U365,Verizon,Older Phone,2/8/2017,$5.00 ,$13.25 ,$2.77 ,$1.06 ,$4.42 ,A2388
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,$77.38 ,$11.95 ,$6.19 ,$54.24 ,A2389
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2390
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2391
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2392
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2393
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2394
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2395
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2396
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2397
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2398
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2399
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2400
+LG VX9700,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2401
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.77 ,$1.06 ,$4.42 ,A2402
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$19.02 ,$3.55 ,$1.52 ,$8.95 ,A2403
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2404
+Samsung SPH-M900,Verizon,Older Phone,4/13/2016,$5.00 ,$27.66 ,$2.77 ,$2.21 ,$17.68 ,A2405
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2406
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2407
+Samsung SCH-U460,Verizon,Older Phone,2/8/2017,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2408
+150 Mil RS 07 Gold,-,Misc,-,$45.00 ,,,$0.00 ,($45.00),A2409
+150 Mil RS 07 Gold,-,Misc,-,$45.00 ,,,$0.00 ,($45.00),A2410
+Samsung SGH-A797,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2411
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2412
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2413
+Pantech Caper,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2414
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$23.93 ,$2.77 ,$1.91 ,$14.25 ,A2415
+LG A340,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2416
+Droid X2,Verizon,Older Phone,6/1/2016,$10.00 ,$27.81 ,$2.77 ,$2.22 ,$12.82 ,A2417
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,$14.22 ,$2.77 ,$1.14 ,$5.31 ,A2418
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2419
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2420
+Motorola VA76,Verizon,Older Phone,2/8/2017,$5.00 ,$30.00 ,$2.77 ,,$22.23 ,A2421
+Samsung SPH-M900,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2422
+Motorola Droid 2 A955,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.77 ,$1.84 ,$13.35 ,A2423
+Sony Ericsson W580,Verizon,Older Phone,4/13/2016,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2424
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2425
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$23.93 ,$2.77 ,$1.91 ,$14.25 ,A2426
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$17.13 ,$2.77 ,$1.37 ,$6.79 ,A2427
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.77 ,$1.45 ,$6.88 ,A2428
+Pantech P7000,Verizon,Older Phone,4/30/2016,$5.00 ,$23.93 ,$2.77 ,$1.91 ,$14.25 ,A2429
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$22.96 ,$2.77 ,$1.84 ,$13.35 ,A2430
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$75.29 ,$5.75 ,$6.02 ,$56.52 ,A2431
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$0.00 ,,$0.00 ,($7.00),A2432
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$0.00 ,,$0.00 ,($7.00),A2433
+Droid Pro XT610,Verizon,Smart Phone,4/30/2016,$10.00 ,$17.40 ,$2.77 ,$1.39 ,$3.24 ,A2434
+Pantech Caper,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2435
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2436
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2437
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$22.81 ,$5.75 ,$1.82 ,$8.24 ,A2438
+Samsung i917,Verizon,Older Phone,4/13/2016,$8.00 ,$21.98 ,$2.77 ,$1.76 ,$9.45 ,A2439
+Pantech Caper,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2440
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2441
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2442
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$24.70 ,$2.77 ,$1.98 ,$14.95 ,A2443
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.77 ,$1.45 ,$6.88 ,A2444
+Pantech C520,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2445
+Samsung SCH-U450,Verizon,Older Phone,4/23/2016,$5.00 ,$23.78 ,$5.75 ,$1.90 ,$11.13 ,A2446
+Samsung SPH-M540,Verizon,Older Phone,2/8/2017,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2447
+Samsung SCH-R640,Verizon,Older Phone,4/13/2016,$8.00 ,$48.20 ,$2.77 ,$3.86 ,$33.57 ,A2448
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$23.93 ,$2.77 ,$1.91 ,$14.25 ,A2449
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2450
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,$32.62 ,$3.55 ,$2.61 ,$21.46 ,A2451
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2452
+Samsung SGH-T669,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.77 ,$1.76 ,$11.45 ,A2453
+LG VX11000,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2454
+Samsung SGH-A817,Verizon,Older Phone,4/13/2016,$6.00 ,$21.98 ,$2.77 ,$1.76 ,$11.45 ,A2455
+LG GW370,Verizon,Older Phone,4/13/2016,$6.00 ,$22.96 ,$2.77 ,$1.84 ,$12.35 ,A2456
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$7.00 ,$29.93 ,$2.77 ,$2.39 ,$17.77 ,A2457
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$22.62 ,$2.77 ,$1.81 ,$11.84 ,A2458
+Samsung SGH-A797,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.77 ,$0.98 ,$3.52 ,A2459
+LG A340,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2460
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$18.10 ,$2.77 ,$1.45 ,$8.88 ,A2461
+Droid X2,Verizon,Older Phone,6/1/2016,$10.00 ,$27.81 ,$2.77 ,$2.22 ,$12.82 ,A2462
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2463
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.77 ,$1.06 ,$4.42 ,A2464
+Samsung SCH-U365,Verizon,Older Phone,2/8/2017,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2465
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$24.75 ,$5.75 ,$1.98 ,$12.02 ,A2466
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.77 ,$1.68 ,$10.36 ,A2467
+LG LN272,Verizon,Older Phone,2/8/2017,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2468
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2469
+Samsung SPH-M540,Verizon,Older Phone,2/8/2017,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2470
+Pantech P7000,Verizon,Older Phone,4/30/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2471
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.77 ,$1.45 ,$6.88 ,A2472
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2473
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2474
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2475
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.77 ,$1.45 ,$6.88 ,A2476
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$14.22 ,$2.77 ,$1.14 ,$5.31 ,A2477
+Samsung SCH-R640,Verizon,Older Phone,4/13/2016,$8.00 ,$48.20 ,$2.77 ,$3.86 ,$33.57 ,A2478
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.77 ,$1.45 ,$6.88 ,A2479
+Casio C751,Verizon,Older Phone,4/13/2016,$5.00 ,$23.93 ,$2.77 ,$1.91 ,$14.25 ,A2480
+Pantech C520,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2481
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.77 ,$1.45 ,$6.88 ,A2482
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$19.49 ,$2.77 ,$1.56 ,$8.16 ,A2483
+LG GW370,Verizon,Older Phone,4/13/2016,$6.00 ,$27.66 ,$5.95 ,$2.21 ,$13.50 ,A2484
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$14.26 ,$2.77 ,$1.14 ,$5.35 ,A2485
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2486
+Samsung SPH-M900,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.77 ,$1.84 ,$13.35 ,A2487
+Motorola Droid 2 A955,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2488
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$23.93 ,$2.77 ,$1.91 ,$14.25 ,A2489
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2490
+Samsung SCH-U450,Verizon,Older Phone,4/23/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2491
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2492
+LG LN272,Verizon,Older Phone,2/8/2017,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2493
+Droid X2,Verizon,Older Phone,6/1/2016,$9.00 ,$23.93 ,$2.77 ,$1.91 ,$10.25 ,A2494
+Droid XT912,Verizon,Smart Phone,2/8/2017,$20.00 ,$52.91 ,$5.95 ,$4.23 ,$22.73 ,A2495
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2496
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$21.01 ,$2.77 ,$1.68 ,$10.56 ,A2497
+Droid X2,Verizon,Older Phone,6/1/2016,$9.00 ,$23.93 ,$2.77 ,$1.91 ,$10.25 ,A2498
+Moto X,Verizon,Smart Phone,4/13/2016,$20.00 ,$57.91 ,$2.77 ,$4.63 ,$30.51 ,A2499
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2500
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$12.27 ,$2.77 ,$0.98 ,$3.52 ,A2501
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$12.27 ,$2.77 ,$0.98 ,$3.52 ,A2502
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$20.79 ,$2.77 ,$1.66 ,$10.36 ,A2503
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.01 ,$2.77 ,$1.68 ,$10.36 ,A2504
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.77 ,$1.45 ,$6.88 ,A2505
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$36.50 ,$3.85 ,$2.92 ,$22.73 ,A2506
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,,,$0.00 ,($7.00),A2507
+Samsung SPH-M900,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.77 ,$1.84 ,$13.35 ,A2508
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$18.10 ,$2.77 ,$1.45 ,$6.88 ,A2509
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.77 ,$1.06 ,$4.42 ,A2510
+Samsung SPH-M540,Verizon,Older Phone,2/8/2017,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2511
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2512
+Samsung SPH-M900,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.77 ,$1.84 ,$13.35 ,A2513
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$21.01 ,$2.77 ,$1.68 ,$10.56 ,A2514
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$26.84 ,$2.77 ,$2.15 ,$16.92 ,A2515
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$14.22 ,$2.77 ,$1.14 ,$3.31 ,A2516
+Pantech P7000,Verizon,Older Phone,4/30/2016,$5.00 ,$14.22 ,$2.77 ,$1.14 ,$5.31 ,A2517
+LG A340,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2518
+Droid XT912,Verizon,Smart Phone,2/8/2017,$20.00 ,$48.20 ,$2.77 ,$3.86 ,$21.57 ,A2519
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2520
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2521
+Casio Ravine C751,Verizon,Older Phone,4/13/2016,$5.00 ,$15.19 ,$2.77 ,$1.22 ,$6.20 ,A2522
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2523
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$8.00 ,$28.78 ,$2.77 ,$2.30 ,$15.71 ,A2524
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2525
+Samsung SPH-M900,Verizon,Older Phone,4/13/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2526
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2527
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2528
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$14.22 ,$2.77 ,$1.14 ,$3.31 ,A2529
+Samsung SCH-U460,Verizon,Older Phone,4/30/2016,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2530
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2531
+Samsung i917,Verizon,Older Phone,4/13/2016,$8.00 ,$21.98 ,$2.77 ,$1.76 ,$9.45 ,A2532
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2533
+Droid X2,Verizon,Older Phone,6/1/2016,$9.00 ,$28.78 ,$2.77 ,$2.30 ,$14.71 ,A2534
+Samsung SGH-A927,Verizon,Older Phone,4/23/2016,$5.00 ,$22.96 ,$2.77 ,$1.84 ,$13.35 ,A2535
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$26.84 ,$2.77 ,$2.15 ,$16.92 ,A2536
+Blackberry 9930,Verizon,Older Phone,4/13/2016,$8.00 ,$28.78 ,$2.77 ,$2.30 ,$15.71 ,A2537
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$19.02 ,$3.65 ,$1.52 ,$8.85 ,A2538
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2539
+Pantech Caper,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2540
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$14.22 ,$2.77 ,$1.14 ,$3.31 ,A2541
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2542
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$21.01 ,$2.77 ,$1.68 ,$10.56 ,A2543
+Pantech P7000,Verizon,Older Phone,4/30/2016,$5.00 ,$19.07 ,$2.77 ,$1.53 ,$9.77 ,A2544
+LG GW370,Verizon,Older Phone,4/13/2016,$6.00 ,$18.46 ,$2.77 ,$1.48 ,$8.21 ,A2545
+Samsung SCH-U450,Verizon,Older Phone,4/23/2016,$5.00 ,$28.33 ,$2.77 ,$2.27 ,$18.29 ,A2546
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$13.25 ,$2.77 ,$1.06 ,$4.42 ,A2547
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2548
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,$52.04 ,$3.85 ,$4.16 ,$34.03 ,A2549
+Motorola i355 Nextel,Verizon,Older Phone,4/13/2016,$10.00 ,,,$0.00 ,($10.00),A2550
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2551
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2552
+Pantech C520,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2553
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2554
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$48.15 ,$3.85 ,$3.85 ,$35.45 ,A2555
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2556
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.98 ,$2.77 ,$1.76 ,$11.25 ,A2557
+Pantech C520,Verizon,Older Phone,4/13/2016,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2558
+Samsung SPH-M540,Verizon,Older Phone,2/8/2017,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2559
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,$38.53 ,$5.95 ,$3.08 ,$23.50 ,A2560
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2561
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2562
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2563
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2564
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2565
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2566
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2567
+HTC Hero 2,Verizon,Older Phone,4/13/2016,$6.00 ,,,$0.00 ,($6.00),A2568
+Samsung i917,Verizon,Older Phone,4/13/2016,$8.00 ,$21.98 ,$2.77 ,$1.76 ,$9.45 ,A2569
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$34.56 ,$3.85 ,$2.76 ,$22.95 ,A2570
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,,,$0.00 ,($5.00),A2571
+Samsung SCH-U640,Verizon,Older Phone,4/13/2016,$5.00 ,$115.98 ,$5.95 ,$9.28 ,$95.75 ,A2572
+Samsung SCH-U640,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2573
+Samsung SCH-U640,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2574
+Samsung SCH-U640,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2575
+Samsung SCH-U640,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2576
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$21.01 ,$2.77 ,$1.68 ,$9.56 ,A2577
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$39.27 ,$3.85 ,$3.14 ,$27.28 ,A2578
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,,,$0.00 ,($5.00),A2579
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$65.53 ,$5.95 ,$5.24 ,$49.34 ,A2580
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2581
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2582
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,,,$0.00 ,($5.00),A2583
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$16.16 ,$2.77 ,$1.29 ,$7.10 ,A2584
+Samsung SPH-L710 S3,Verizon,Smart Phone,4/13/2016,$20.00 ,$53.06 ,$2.60 ,$4.24 ,$26.22 ,A2585
+Droid A855,Verizon,Older Phone,4/13/2016,$5.00 ,$21.98 ,$2.77 ,$1.76 ,$12.45 ,A2586
+Motorola Droid XT875,Verizon,Smart Phone,6/1/2016,$8.00 ,$30.72 ,$2.77 ,$2.46 ,$17.49 ,A2587
+LG GW370,Verizon,Older Phone,4/13/2016,$6.00 ,$17.13 ,$2.77 ,$1.37 ,$6.99 ,A2588
+Samsung SGH-A737,Verizon,Older Phone,4/23/2016,$5.00 ,$14.22 ,$2.77 ,$1.14 ,$5.31 ,A2589
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2590
+Pantech P7040,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2591
+LG VX11000,Verizon,Older Phone,2/8/2017,$5.00 ,$25.87 ,$2.77 ,$2.07 ,$16.03 ,A2592
+Casio Ravine 2 C781,Verizon,Older Phone,4/13/2016,$7.00 ,$14.95 ,$2.77 ,$1.20 ,$3.98 ,A2593
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$21.01 ,$2.77 ,$1.68 ,$10.56 ,A2594
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2595
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2596
+Samsung i917,Verizon,Older Phone,4/13/2016,$8.00 ,$14.22 ,$2.77 ,$1.14 ,$2.31 ,A2597
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$21.98 ,$2.77 ,$1.76 ,$11.25 ,A2598
+Blackberry 9650,Verizon,Older Phone,4/13/2016,$5.00 ,$21.01 ,$2.77 ,$1.68 ,$11.56 ,A2599
+Motorola RAZR V3G,Verizon,Older Phone,2/8/2017,$5.00 ,$25.87 ,$2.77 ,$2.07 ,$16.03 ,A2600
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$20.04 ,$2.77 ,$1.60 ,$8.67 ,A2601
+LG VX9200,Verizon,Older Phone,4/13/2016,$5.00 ,$20.04 ,$2.77 ,$1.60 ,$10.67 ,A2602
+150 Mil RS 07 Gold,-,Misc,-,$45.00 ,$19.11 ,,,($25.89),A2603
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$26.84 ,$2.77 ,$2.15 ,$16.92 ,A2604
+Motorola V3,Verizon,Older Phone,4/13/2016,$5.00 ,$28.78 ,$2.60 ,$2.30 ,$18.88 ,A2605
+Motorola V3,Verizon,Older Phone,4/13/2016,$5.00 ,$25.87 ,$2.60 ,$2.07 ,$16.20 ,A2606
+LG VX11000,Verizon,Older Phone,2/8/2017,$5.00 ,$25.87 ,$2.77 ,$2.07 ,$16.03 ,A2607
+Motorola W755,Verizon,Older Phone,4/13/2016,$5.00 ,$26.84 ,$2.77 ,$2.15 ,$16.92 ,A2608
+Samsung SCH-R640,Verizon,Older Phone,4/13/2016,$8.00 ,$38.49 ,$2.77 ,$3.08 ,$24.64 ,A2609
+LG GU295,Verizon,Older Phone,4/13/2016,$6.00 ,$13.99 ,$2.77 ,$1.12 ,$4.10 ,A2610
+Droid X MB810,Verizon,Older Phone,4/13/2016,$6.20 ,$17.13 ,$2.77 ,$1.37 ,$6.79 ,A2611
+Nokia 6085/6,Verizon,Older Phone,4/30/2016,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2612
+LG VX9100,Verizon,Older Phone,6/1/2016,$5.00 ,$9.36 ,$2.77 ,$0.75 ,$0.84 ,A2613
+Droid XT912,Verizon,Smart Phone,2/8/2017,$25.00 ,$44.54 ,$2.77 ,$3.56 ,$13.21 ,A2614
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2615
+Samsung SPH-M900,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.77 ,$1.84 ,$13.35 ,A2616
+Nokia 6085,Verizon,Older Phone,2/8/2017,$5.00 ,$17.13 ,$2.77 ,$1.37 ,$7.99 ,A2617
+Samsung SCH-U660,Verizon,Older Phone,4/13/2016,$7.00 ,$14.22 ,$2.77 ,$1.14 ,$3.31 ,A2618
+Pantech P9020,Verizon,Older Phone,4/13/2016,$6.00 ,$23.93 ,$2.77 ,$1.91 ,$13.25 ,A2619
+LG VN250,Verizon,Older Phone,4/13/2016,$5.00 ,$22.96 ,$2.60 ,$1.84 ,$13.52 ,A2620
