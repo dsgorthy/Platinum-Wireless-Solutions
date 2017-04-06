@@ -46,7 +46,7 @@ def parse_ledger_file(ledger_file):
 	f = open(ledger_file)
 	csv_f = csv.reader(f)
 	ledger_list = []
-	return_ledger_list
+	return_ledger_list= []
 
 	for row in csv_f:
 		ledger_list = row
@@ -55,6 +55,41 @@ def parse_ledger_file(ledger_file):
 		return_ledger_list.append("../raw_data/"+ledger)
 
 	return return_ledger_list
+
+
+#
+# Returns a dictionary with the format
+#
+# Item_ID: [Purchase_date, Sale_Date]
+#
+
+def process_ledgers(ledger_list):
+	sales_from_ledger_list = []
+	purchases_from_ledger_list = []
+	ledger_dict = {}
+
+	for ledger_file in ledger_list:
+
+		print (ledger_file)
+		f = open(ledger_file)
+		csv_f = csv.reader(f)
+
+		for row in csv_f:
+
+			cleaned_row = []
+			for data in row:
+				if (data != ""):
+					cleaned_row.append(data)
+
+			if (len(cleaned_row) > 0):
+				if (cleaned_row[2] == 'Purchase'):
+					purchases_from_ledger_list.append(cleaned_row)
+				elif (cleaned_row[2] == 'Sale'):
+					sales_from_ledger_list.append(cleaned_row)
+
+	
+
+	return 
 
 
 def get_column_number(file_name, column):
@@ -105,9 +140,44 @@ def remove_rows_with_element(file_name, remove_string, category_int, new_file_na
 	return
 
 
+# Function only takes ledger files with the format
+#
+# Date, Item_ID, Description, Revenue (Positive), Expense (Positive)
+#
+# The following formats for the above categories are
+#
+# Date: Must be Month/Day/Year
+# Item_ID: Left blank if not Purchase or Sale
+# Description: Sale, Shipping, Expense, Purchase, Refund, Commission
+# Revenue/Expense: All values must be positive and will a dollar sign in front of it.
+#
+# All headers must be removed and data must be in this order to work properly.
+#
+# Function takes a sales record file with the format
+# Model, Category, Purchase_Price, Sold_Price, Shipping_Cost, eBay_Fees, Profit, Item ID   
+#
+# Function will create an updated sales file with the format
+# Model, Category, Date_Purchased, Purchase_Price, Date_Sold, Sold_Price, Shipping_Cost, eBay_Fees, Profit, Item ID     
+#
+
 def generate_complete_output_file(sales_file, ledger_list, output_file):
 
-	
+	ledger_dict = process_ledgers(ledger_list)
+
+	f = open(sales_file)
+	csv_f = csv.reader(f)
+
+	for row in csv_f:
+
+		updated_row = []
+		# Strip whitespace from beginning and ending of data
+		for data in row:
+			updated_row.append(data.strip())
+
+		
+
+
+		#add_line_to_file(parsed_row_to_string(updated_row), output_file)	
 
 	return
 
