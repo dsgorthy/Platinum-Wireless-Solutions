@@ -24,6 +24,7 @@ def file_exists(input_file):
 def display_menu():
 	print("1. Remove a column")
 	print("2. Remove a items of certain category")
+	print("3. Create full datafile.")
 	print("9. Exit/Quit")
 	return
 
@@ -57,7 +58,7 @@ def parse_ledger_file(ledger_file):
 	return return_ledger_list
 
 
-def handle_combined_transaction(dictionary, combined_transaction, shared_value, combining_character):
+def handle_combined_purchase(dictionary, combined_transaction, shared_value, combining_character):
 
 	first_char = combined_transaction[0]
 	combined_transaction = combined_transaction[1:]
@@ -67,14 +68,28 @@ def handle_combined_transaction(dictionary, combined_transaction, shared_value, 
 		loop_bounds[1] = loop_bounds[1][1:]
 
 	for t in range(int(loop_bounds[0]),int(loop_bounds[1])+1):
-		dictionary[first_char+str(t)] = shared_value
-		print(dictionary[first_char+str(t)])
+		dictionary[first_char+str(t)] = [shared_value]
+
+	return dictionary
+
+
+def handle_combined_sale(dictionary, combined_transaction, shared_value, combining_character):
+
+	first_char = combined_transaction[0]
+	combined_transaction = combined_transaction[1:]
+	loop_bounds = combined_transaction.split(combining_character)
+
+	if not loop_bounds[1].isdigit():
+		loop_bounds[1] = loop_bounds[1][1:]
+
+	for t in range(int(loop_bounds[0]),int(loop_bounds[1])+1):
+		dictionary[first_char+str(t)].append(shared_value)
 
 	return dictionary
 
 
 #
-# Returns a dictionary with the format
+# Returns a dictionary with the format:
 #
 # Item_ID: [Purchase_date, Sale_Date]
 #
@@ -107,13 +122,24 @@ def process_ledgers(ledger_list):
 		if (transaction[1] == "-"):
 			pass
 		elif "-" in transaction[1]:
-			ledger_dict = handle_combined_transaction(ledger_dict, transaction[1], transaction[0], "-")
+			ledger_dict = handle_combined_purchase(ledger_dict, transaction[1], transaction[0], "-")
 		elif "/" in transaction[1]:
-			ledger_dict = handle_combined_transaction(ledger_dict, transaction[1], transaction[0], "/")
+			ledger_dict = handle_combined_purchase(ledger_dict, transaction[1], transaction[0], "/")
 		else:
 			ledger_dict[transaction[1]] = [transaction[0]]
 
-	return 
+	for transaction in sales_from_ledger_list:
+		if transaction[1] in ledger_dict:
+			if (transaction[1] == "-"):
+				pass
+			elif "-" in transaction[1]:
+				ledger_dict = handle_combined_sale(ledger_dict, transaction[1], transaction[0], "-")
+			elif "/" in transaction[1]:
+				ledger_dict = handle_combined_sale(ledger_dict, transaction[1], transaction[0], "/")
+			else:
+				ledger_dict[transaction[1]].append(transaction[0])
+
+	return ledger_dict
 
 
 def get_column_number(file_name, column):
@@ -184,24 +210,39 @@ def remove_rows_with_element(file_name, remove_string, category_int, new_file_na
 # Model, Category, Date_Purchased, Purchase_Price, Date_Sold, Sold_Price, Shipping_Cost, eBay_Fees, Profit, Item ID     
 #
 
-def generate_complete_output_file(sales_file, ledger_list, output_file):
+def generate_complete_output_file(sales_file, ledger_list, inventory_file, output_file):
 
 	ledger_dict = process_ledgers(ledger_list)
+	line_array = []
 
+	flag = 1
 	f = open(sales_file)
 	csv_f = csv.reader(f)
 
 	for row in csv_f:
 
-		updated_row = []
-		# Strip whitespace from beginning and ending of data
-		for data in row:
-			updated_row.append(data.strip())
+		if (flag):
+			flag = 0
+		elif (row[7] in ledger_dict):
+			updated_row = []
+			# Strip whitespace from beginning and ending of data
+			for data in row:
+				updated_row.append(data.strip())
 
-		
+			updated_row.insert(2,ledger_dict[row[7]][0])
+			if (len(ledger_dict[updated_row[8]]) == 2):
+				updated_row.insert(4,ledger_dict[updated_row[8]][1])
+			else:
+				updated_row.insert(4,"-")
 
+			###########################
+			#
+			# inventory_file used but included for extension
+			# currenty, just assume no inventory breakage
+			#
+			###########################
 
-		#add_line_to_file(parsed_row_to_string(updated_row), output_file)	
+			add_line_to_file(parsed_row_to_string(updated_row), output_file)	
 
 	return
 
@@ -237,8 +278,9 @@ while ans:
 			list_of_ledgers_file = "../raw_data/"+input("What file lists the ledger files on a single line? ")
 			if (file_exists(list_of_ledgers_file)):
 				list_of_ledgers = parse_ledger_file(list_of_ledgers_file)
+				inventory_file = "../data_output/"+input("What is the existing inventory file? ")
 				output_file = "../data_output/"+input("What would you like the output file to be named? ")
-				generate_complete_output_file(input_file, list_of_ledgers, output_file)
+				generate_complete_output_file(input_file, list_of_ledgers, inventory_file, output_file)
 
 	elif (ans == "9"):
 		print ("Goodbye!")
