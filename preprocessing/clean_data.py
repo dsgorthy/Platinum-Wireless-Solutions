@@ -57,6 +57,22 @@ def parse_ledger_file(ledger_file):
 	return return_ledger_list
 
 
+def handle_combined_transaction(dictionary, combined_transaction, shared_value, combining_character):
+
+	first_char = combined_transaction[0]
+	combined_transaction = combined_transaction[1:]
+	loop_bounds = combined_transaction.split(combining_character)
+
+	if not loop_bounds[1].isdigit():
+		loop_bounds[1] = loop_bounds[1][1:]
+
+	for t in range(int(loop_bounds[0]),int(loop_bounds[1])+1):
+		dictionary[first_char+str(t)] = shared_value
+		print(dictionary[first_char+str(t)])
+
+	return dictionary
+
+
 #
 # Returns a dictionary with the format
 #
@@ -87,7 +103,15 @@ def process_ledgers(ledger_list):
 				elif (cleaned_row[2] == 'Sale'):
 					sales_from_ledger_list.append(cleaned_row)
 
-	
+	for transaction in purchases_from_ledger_list:
+		if (transaction[1] == "-"):
+			pass
+		elif "-" in transaction[1]:
+			ledger_dict = handle_combined_transaction(ledger_dict, transaction[1], transaction[0], "-")
+		elif "/" in transaction[1]:
+			ledger_dict = handle_combined_transaction(ledger_dict, transaction[1], transaction[0], "/")
+		else:
+			ledger_dict[transaction[1]] = [transaction[0]]
 
 	return 
 
