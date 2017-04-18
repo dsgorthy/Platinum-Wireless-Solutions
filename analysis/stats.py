@@ -27,13 +27,26 @@ def read_file_into_dict():
 	csv_f = csv.reader(f)
 
 	for row in csv_f:
-		print (row[9])
+		transactions[row[9]] = row[0:8]
 
 	return transactions
 
 
-processed_transactions = {}
+def build_model_list(raw_dict):
+	model_list = []
 
+	for ItemID in raw_dict:
+		if (raw_dict[ItemID][0] not in model_list):
+			model_list.append(raw_dict[ItemID][0])
+
+	return model_list
+
+
+# Key: ItemID
+# Value: [Device Model, Category, Purchase Date, Purchase Price, Sale Date, Sale Price, Shipping Fees, eBay Fees, Net Profit]
+#
+processed_transactions = read_file_into_dict()
+model_list = []
 
 
 ans = True
@@ -42,7 +55,8 @@ while ans:
 	ans=input("What would you like to do? ")
 
 	if (ans == "1"):
-		read_file_into_dict()
+		model_list = build_model_list(processed_transactions)
+		print(model_list)
 
 	elif (ans == "9"):
 		print ("Goodbye!")
